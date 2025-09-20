@@ -1,4 +1,4 @@
-# 🖥️ Risc-V_ Reference_SOC_ tapeout program_task-0
+# 🖥️ Risc-V_ Reference_SOC_Tapeout program_Task-0
 
 This repository documents my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
 
@@ -29,7 +29,7 @@ These are installed in Ubuntu 24.03 using Orcale Virtual Machine 7.2.2
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
-$ sudo apt install make               # If make is not installed
+$ sudo apt install make               
 $ sudo apt-get install build-essential clang bison flex \
     libreadline-dev gawk tcl-dev libffi-dev git \
     graphviz xdot pkg-config python3 libboost-system-dev \

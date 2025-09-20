@@ -1,13 +1,18 @@
 # 🖥️ Risc-V_ Reference_SOC_ tapeout program_task-0
+
 This repository dwelves with my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
+
 #📅 **WEEK 0- TASK 0 SETUP AND TOOLS**
+
 ## System requirements
 Below are the system requirements for the tools to be installed
+
 -Operating system--Ubuntu 24.03 (latest version)
 -RAM--8GB
 -Disk Space--50GB
 -CPU--4 core
 -Tools/softwares--yosys,iverilog,GTKWave
+
 # **TOOLS INSTALLED**
 - Yosys
 - iverilog
@@ -29,4 +34,6 @@ $ make config-gcc
 $ git submodule update --init --recursive
 $ make 
 $ sudo make install
+![Yosys](Yosys completion.jpg)
+
 

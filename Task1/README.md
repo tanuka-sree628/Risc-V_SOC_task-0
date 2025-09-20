@@ -1,4 +1,5 @@
-Summary of the video given in week 0
+# **Summary of the video given in week 0**
+
 The System-on-Chip (SoC) design process starts with chip modeling. In this stage, hardware functionality is defined using a C-model. This early phase, often called O0/O1, uses the GCC compiler to build and run the software model. The design is verified against a C-based testbench to make sure it meets the intended functionality.
 
 After the design specifications are confirmed, the process moves to RTL development (O2). Here, hardware is described in Register Transfer Level (RTL) using Verilog. The processor and peripheral IPs are implemented in RTL and verified again with the same C-language testbench to keep everything consistent and correct.

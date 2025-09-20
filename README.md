@@ -9,9 +9,9 @@ Below are the system requirements for the tools to be installed
 -CPU--4 core
 -Tools/softwares--yosys,iverilog,GTKWave
 # **TOOLS INSTALLED**
--Yosys
--iverilog
--GTKWave
+- Yosys
+- iverilog
+- GTKWave
 These are installed in Ubuntu 24.03 using Orcale Virtual Machine 7.2.2
 # TOOLS CHECK
 **YOSYS**

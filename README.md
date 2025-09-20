@@ -3,16 +3,15 @@ This repository dwelves with my task completion on the program "India RISC-V Chi
 #📅 **WEEK 0- TASK 0 SETUP AND TOOLS**
 ## System requirements
 Below are the system requirements for the tools to be installed
-|RESOURCES|GIVEN/USED|
-|Operating system|Ubuntu 24.03 (latest version)|
-|RAM|8GB|
-|Disk Space|50GB|
-|CPU|4 cores|
-|Tools/softwares|yosys,iverilog,GTKWave|
+-Operating system--Ubuntu 24.03 (latest version)
+-RAM--8GB
+-Disk Space--50GB
+-CPU--4 core
+-Tools/softwares--yosys,iverilog,GTKWave
 # **TOOLS INSTALLED**
---Yosys
---iverilog
---GTKWave
+-Yosys
+-iverilog
+-GTKWave
 These are installed in Ubuntu 24.03 using Orcale Virtual Machine 7.2.2
 # TOOLS CHECK
 **YOSYS**

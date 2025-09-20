@@ -7,15 +7,15 @@ This repository documents my task completion on the program "India RISC-V Chip T
 ## ✅ System requirements
 Below are the system requirements for the tools to be installed
 
--Operating system--Ubuntu 24.03 (latest version)
+- Operating system--Ubuntu 24.03 (latest version)
 
--RAM--8GB
+- RAM--8GB
 
--Disk Space--50GB
+- Disk Space--50GB
 
--CPU--4 core
+- CPU--4 core
 
--Tools/softwares--yosys,iverilog,GTKWave
+- Tools/softwares--yosys,iverilog,GTKWave
 
 #  🛠️ **TOOLS INSTALLED**
 - Yosys

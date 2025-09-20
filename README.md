@@ -17,7 +17,7 @@ Below are the system requirements for the tools to be installed
 
 - Tools/softwares--yosys,iverilog,GTKWave
 
-#  🛠️ **TOOLS INSTALLED**
+##  🛠️ **TOOLS INSTALLED**
 - Yosys
 - iverilog
 - GTKWave
@@ -54,6 +54,10 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![GTKWave](assets/GTKWave_completion.jpg)
+
+This task deals with the set up the necessary tools for the India RISC-V Chip Tapeout Program. With Yosys, Iverilog, and GTKWave installed and checked, the environment is now ready for developing, simulating, and testing RISC-V designs.
+
+This setup helps ensure smooth progress for future tasks in the program and creates a reliable workflow for RISC-V SoC development.
 
 
 

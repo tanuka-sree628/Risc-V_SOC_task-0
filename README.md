@@ -1,10 +1,10 @@
 # 🖥️ Risc-V_ Reference_SOC_ tapeout program_task-0
 
-This repository dwelves with my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
+This repository documents my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
 
-##📅 **WEEK 0- TASK 0 SETUP AND TOOLS**
+📅 **WEEK 0- TASK 0: SETUP AND TOOLS**
 
-## System requirements
+## ✅ System requirements
 Below are the system requirements for the tools to be installed
 
 -Operating system--Ubuntu 24.03 (latest version)
@@ -13,14 +13,14 @@ Below are the system requirements for the tools to be installed
 -CPU--4 core
 -Tools/softwares--yosys,iverilog,GTKWave
 
-# **TOOLS INSTALLED**
+#  🛠️ **TOOLS INSTALLED**
 - Yosys
 - iverilog
 - GTKWave
   
 These are installed in Ubuntu 24.03 using Orcale Virtual Machine 7.2.2
-# TOOLS CHECK
-**YOSYS**
+#🧪 TOOLS CHECK
+** 1️⃣ YOSYS**
 ```bash
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
@@ -37,14 +37,14 @@ $ sudo make install
 ```
 ![Yosys](assets/Yosys_completion.jpg)
 
-**Iverilog**
+** 2️⃣ Iverilog**
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 ![Iverilogs](assets/iverilog_completion.jpg)
 
-**GTKWave**
+**3️⃣ GTKWave**
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave

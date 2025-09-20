@@ -1,4 +1,4 @@
-# 🖥️ Risc-V_ Reference_SOC_Tapeout program_Task-0
+# 🖥️ Risc-V_ Reference_SOC_Tapeout program_Task-2
 
 This repository documents my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
 

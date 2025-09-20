@@ -2,9 +2,9 @@
 
 This repository documents my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
 
-📅 **WEEK 0- TASK 0: SETUP AND TOOLS**
+# 📅 **WEEK 0- TASK 0: SETUP AND TOOLS**
 
-## ✅ System requirements
+## ✅ **System Requirements**
 Below are the system requirements for the tools to be installed
 
 - Operating system--Ubuntu 24.03 (latest version)

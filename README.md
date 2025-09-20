@@ -2,7 +2,7 @@
 
 This repository dwelves with my task completion on the program "India RISC-V Chip Tapeout". Hereby completing my first task of installing the tools needed for the program.
 
-#📅 **WEEK 0- TASK 0 SETUP AND TOOLS**
+##📅 **WEEK 0- TASK 0 SETUP AND TOOLS**
 
 ## System requirements
 Below are the system requirements for the tools to be installed
@@ -36,5 +36,20 @@ $ make
 $ sudo make install
 ```
 ![Yosys](assets/Yosys_completion.jpg)
+
+**Iverilog**
+```bash
+$ sudo apt-get update
+$ sudo apt-get install iverilog
+```
+![Iverilogs](assets/iverilog_completion.jpg)
+
+**GTKWave**
+```bash
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+![GTKWave](assets/GTKWave_completion.jpg)
+
 
 
